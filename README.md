@@ -18,11 +18,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://saus.gemail.ink/anomali/anomali-xl
+git clone https://github.com/fhms217/dorinja
 ```
 4. Open the folder
 ```
-cd anomali-xl
+cd dorinja
 ```
 5. Setup
 ```
